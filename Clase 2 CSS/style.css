@@ -1,0 +1,59 @@
+body {
+    background-image: radial-gradient(green, purple);
+}
+
+p {
+    color: green;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center; 
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+h2 {
+    margin: 60px;
+    color: blue;
+}
+.titulos {
+    color: red;
+    font-size: 15px;
+}
+
+li {
+    color: white;
+    font-size: 25px;
+}
+
+#terminator {
+    color: yellow;
+    font-size: 25px;
+}
+
+
+
+#contenedor {
+    background-color: pink;
+    margin: 60px auto;
+    border-radius: 5%;
+    border: 10px solid red;
+    width: 400px;
+    height: 400px;
+    padding: 40px;
+}
+
+h4:hover {
+    background-color: red;
+    /* color: pink;
+    font-size: 25px; */
+}
+
+button:active {
+    background-color: blue;
+}
+
+input:focus {
+    background-color: red;
+}
+ol{margin: 50px 50px 50px 200px;}
